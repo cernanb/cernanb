@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Cernan Bernardo and I am a
+## Hi, I'm Cernan Bernardo and I am a
 
 ![Vanilla-1s-280px (1)](https://user-images.githubusercontent.com/7960757/97610939-c2fb2e80-19d2-11eb-8971-f6a88e63ac56.gif)
 ![Vanilla-1s-280px](https://user-images.githubusercontent.com/7960757/97610845-a19a4280-19d2-11eb-872f-de3f3297f44f.gif)
