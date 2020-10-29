@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋, I'm Cernan Bernardo and I am a
+
 
 <!--
 **cernanb/cernanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
