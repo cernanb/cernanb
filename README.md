@@ -77,7 +77,7 @@ I build performant, scalable applications with modern technologies. Passionate a
 
 Have a project in mind or want to discuss opportunities?
 
-[![Email](https://img.shields.io/badge/Email-hello%40example.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cernanb@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cernanb%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cernanb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cernanbernardo)
 
 </div>
