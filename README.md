@@ -11,8 +11,8 @@
 
 ### Software Engineer crafting digital experiences
 
-[![Status](https://img.shields.io/badge/Status-Available%20for%20opportunities-brightgreen?style=flat-square)](mailto:hello@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-F59E0B?style=flat-square)](https://your-portfolio.com)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20opportunities-brightgreen?style=flat-square)](mailto:cernanb@gmail.com)
+
 
 </div>
 
