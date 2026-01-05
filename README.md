@@ -69,13 +69,6 @@ I build performant, scalable applications with modern technologies. Passionate a
 </tr>
 </table>
 
-### GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff&hide_title=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0a0a0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" height="150" />
-</div>
-
 ---
 
 <div align="center">
