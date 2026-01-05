@@ -69,55 +69,6 @@ I build performant, scalable applications with modern technologies. Passionate a
 </tr>
 </table>
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h4>Real-Time Analytics Dashboard</h4>
-<p>High-performance analytics platform processing millions of events with sub-second query response times.</p>
-<p><b>Impact:</b> Reduced latency by 40%</p>
-<p>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-</td>
-<td width="50%">
-<h4>E-Commerce Platform</h4>
-<p>Full-stack e-commerce solution with inventory management and 99.9% uptime.</p>
-<p><b>Impact:</b> Increased conversion rate by 25%</p>
-<p>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4>ML Pipeline</h4>
-<p>End-to-end ML pipeline for predictive maintenance with automated model training and deployment.</p>
-<p><b>Impact:</b> 92% accuracy, 3-day advance predictions</p>
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-</td>
-<td width="50%">
-<h4>Developer Collaboration Tool</h4>
-<p>Real-time collaborative code editor with video chat and AI-assisted code review.</p>
-<p><b>Impact:</b> Setup time from 10min to 30 seconds</p>
-<p>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-<img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-</p>
-</td>
-</tr>
-</table>
-
 ### GitHub Stats
 
 <div align="center">
