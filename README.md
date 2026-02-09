@@ -69,6 +69,8 @@ I build performant, scalable applications with modern technologies. Passionate a
 </tr>
 </table>
 
+ [![Chat with my AICareer Avatar](https://img.shields.io/badge/🤗%20Hugging%20Face-Chat%20with%20my%20AI-yellow)](https://huggingface.co/spaces/cernanb/career_convo)
+
 ---
 
 <div align="center">
